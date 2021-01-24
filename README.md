@@ -2,5 +2,5 @@
 
 Welcome to my GitHub Profile :)
 
-This is a [link][link] demo
+This is a [link][link]
 [link]:google.com
