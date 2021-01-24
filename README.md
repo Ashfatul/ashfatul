@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile :)
 
-You should [check this out][check link]:http://google.com
+You should [check this out][check link]
 
 
 [check link]:http://google.com
