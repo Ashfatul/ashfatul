@@ -1,3 +1,3 @@
-### Hi there 👋, My name is <span color:red>Ashfatul
+### Hi there 👋, My name is **Ashfatul**
 
 Welcome to my Profile :)
