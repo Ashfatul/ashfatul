@@ -2,4 +2,5 @@
 
 Welcome to my GitHub Profile :)
 
-[--Visit Google--](http://google.com)
+This is a [link][link] demo
+[link]:google.com
