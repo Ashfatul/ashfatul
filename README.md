@@ -6,7 +6,7 @@ Welcome to my GitHub Profile :) | here you will find lot of my work and other in
 
 >## "life is all about the next step"
 
-You should [check this out][check link]
+For more info (find me on other websites) [click me][check link]
 
 
-[check link]:http://google.com
+[check link]:https://www.google.com/search?&q=ashfatul
