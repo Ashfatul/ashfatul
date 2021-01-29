@@ -9,4 +9,4 @@ Welcome to my GitHub Profile :) | here you will find lot of my work and other in
 For more info (find me on other websites) [click me][check link]
 
 
-[check link]:https://www.google.com/search?&q=ashfatul
+[check link]:https://www.google.com/search?&q="ashfatul"
