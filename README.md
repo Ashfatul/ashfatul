@@ -34,8 +34,8 @@ My development arsenal includes the latest modern web technologies to ensure opt
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfatul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ashfatul)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfatul&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117)](https://github.com/ashfatul)
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ashfatul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ashfatul)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashfatul&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117)](https://github.com/ashfatul)
 
 <br />
 
