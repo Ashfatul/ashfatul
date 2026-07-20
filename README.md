@@ -1,38 +1,70 @@
-<h3>Hey There 👋, I'm Ashfatul Islam</h3>
-<h4>MERN Stack Developer From Bangladesh</h4>
-<p>ashfatul.islam@gmail.com || ashfatul.github.io</p>
-<h1></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=35&pause=1000&color=3B82F6&center=false&vCenter=false&width=800&lines=Hi+there,+I'm+Ashfatul!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Frontend+%26+Full+Stack+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfatul&label=Profile%20views&color=0e75b6&style=flat" alt="ashfatul" /> </p>
+<a href="https://github.com/ashfatul">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-blueviolet?style=for-the-badge&logo=react" />
+</a>
+<a href="https://github.com/ashfatul">
+  <img src="https://img.shields.io/badge/Learning-Advanced_System_Design-success?style=for-the-badge&logo=framer" />
+</a>
 
-<h3>information</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
--  🌱 I am currently developing with the **MERN stack.**
+## 🚀 About Me
 
--  👯 I’m open to join a team.
+I am a passionate **Developer** who loves building dynamic, responsive, and visually stunning web applications. I focus on creating interactive user interfaces and robust backend systems with modern web technologies.
 
--  👨‍💻 Portfolio can be found at [ashfatul.github.io](ashfatul.github.io)
+- 🔭 I’m currently building **Full Stack Applications**, focusing on scalable architectures and seamless user experiences.
+- 🌱 I’m currently learning and mastering **Advanced Full Stack Technologies** and **Modern UI/UX principles**.
+- 🛠 I frequently use **React.js, Node.js, and Modern Web Tools** for full-featured web solutions.
+- 💬 Ask me about **JavaScript, React, Full Stack Development, and modern web tech**.
+- 📫 How to reach me: _Connect with me via the links below!_
+- ⚡ Fun fact: _I believe that a beautiful design paired with a solid architecture is the key to a memorable user experience! ✨_
 
--  📫 Reach me via **ashfatul.islam@gmail.com**
+<br />
 
--  💬 Find me on [http://linkedin.com/in/ashfatul](LinkedIn)
+## 💻 Tech Stack & Tools
 
--  ⚡ Favorite Quote : "Life is all about next step"
+My development arsenal includes the latest modern web technologies to ensure optimal performance and code quality.
 
-<h3>Experience</h3>
+<br />
 
-<h4>Quality Assurance Engineer</h4>
-<h6>at MightyTech</h6>
-<h6>Duration: Dec 2020 to Mar 2022</h6>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,vite,node,git,github,vscode,figma,npm" />
 
-<h3>GitHub Stats</h3>
+<br /><br />
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfatul&show_icons=true&locale=en&layout=compact" alt="ashfatul" /></p>
+## 📈 GitHub Stats
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfatul&show_icons=true&locale=en" alt="ashfatul" /></p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfatul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ashfatul)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfatul&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117)](https://github.com/ashfatul)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
 
-<h3>GitHub Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfatul&" alt="ashfatul" /></p>
+## 🌟 Highlights & Projects
+
+> *Check out my repositories below for more code and contributions! I enjoy creating premium, app-like experiences on the web using React and modern full-stack tools.*
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashfatul&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/ashfatul)
+
+<br />
+
+## 🌐 Let's Connect (Open to Work)
+
+I am currently **Open to Work** and actively looking for new opportunities! Feel free to reach out for collaborations, project inquiries, or just to say hi.
+
+<br />
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" alt="Open to Work" /></a>
+
+---
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashfatul&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+<br />
+
+> _Designed with ❤️ and lots of coffee. Let's build something awesome together!_
